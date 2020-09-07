@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "It starts with requirements",
+        "description": "Seamless collaboration for a single view of engineering requirements truth",
+        "imageUrl": "./images/1.jpeg",
+        "imageAlt": "Image1"
+    },
+    {
+        "id": 2,
+        "title": "AI to the rescue",
+        "description": "Improve requirements quality by levaraging Watson AI. RQA evaluates requirements based on the INCOSE Guide",
+        "imageUrl": "./images/2.jpeg",
+        "imageAlt": "Image2"
+    },
+    {
+        "id": 3,
+        "title": "More effective change management",
+        "description": "Assess impact of changes to your requirements more quickly for better quality",
+        "imageUrl": "./images/3.jpeg",
+        "imageAlt": "Image3"
+    }
+]

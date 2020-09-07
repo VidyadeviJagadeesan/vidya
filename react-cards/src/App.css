@@ -1,0 +1,29 @@
+.App {
+  background-image: url(./images/4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  min-height: 100%;
+}
+.bx--header {
+  background-color: #fff;
+  border-bottom: 1px solid #c6c6c6;
+  position:initial;
+}
+
+.bx--header img {
+  height: inherit!important;
+}
+
+a.bx--header__name {
+  color: #161616;
+}
+
+.actionBar span {
+  padding-left:0.25rem;
+  padding-right: 0.25rem;
+  color: #000!important;
+  opacity: 0.5;
+}
+.actionBar .bx--header {
+  justify-content: flex-end;
+}
